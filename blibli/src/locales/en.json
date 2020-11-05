@@ -1,0 +1,42 @@
+{
+  "language": "Language",
+  "see_all": "See All",
+  "get_to_know_more": "Get to know more",
+  "shopping_inspiration": "Shopping Inspiration",
+  "navbar": {
+    "category": "Category",
+    "festival": "Tirta Lie Rice Festival",
+    "master": "Master Pan",
+    "gadget": "Gadgets Fair",
+    "sign_in": "Sign in",
+    "sign_up": "Sign up"
+  },
+  "favorite": {
+    "new": "New",
+    "all": "All",
+    "bliblimart": "Bliblimart",
+    "tablet": "Tablet",
+    "pulse": "Pulse",
+    "vouchers": "Ticket & Voucher",
+    "electronic": "Electronic",
+    "living": "Living",
+    "beauty": "Beauty",
+    "plane": "Plane",
+    "health": "Health"
+  },
+  "promo": {
+    "other": "Other Promos",
+    "cheapest": "Cheapest",
+    "bank": "Bank"
+  },
+  "products": {
+    "recommended_products": "Recommended Products",
+    "best_selling_products": "Best Selling Products",
+    "consumer_goods": "Consumer Goods",
+    "lifestyle": "Lifestyle",
+    "activities_vacations": "Activities & Vacations",
+    "automotive": "Automotive",
+    "home_living": "Home & Living",
+    "gadgets_electronics": "Gadgets & Electronics"
+  }
+}

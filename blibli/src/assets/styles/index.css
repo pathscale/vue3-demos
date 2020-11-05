@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'MetrocleanExtrabold';
+  src: url('../fonts/metroclean-extrabold-webfont.woff2');
+}
+
+@font-face {
+  font-family: 'MetrocleanMedium';
+  src: url('../fonts/metroclean-medium-webfont.woff2');
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+}
+
+body {
+  display: block !important;
+  animation: fadein 2s;
+	margin: 0;
+  font-family: MetrocleanMedium !important;
+  text-rendering: optimizeLegibility;
+  height: calc(var(--vh, 1vh) * 100);
+}
+
+.has-overflow-x-auto {
+  overflow-x: auto;
+  width: 100%;
+}
+
+.hidden-language-menu {
+  background-color: #007eb8;
+  transition: 1s;
+  overflow-x: auto;
+  overflow-y: hidden;
+  display: flex;
+  justify-content: center;
+}

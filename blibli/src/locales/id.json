@@ -1,0 +1,42 @@
+{
+  "language": "Bahasa",
+  "see_all": "Lihat Semua",
+  "get_to_know_more": "Kenali lebih dekat",
+  "shopping_inspiration": "Inspirasi Belanja",
+  "navbar": {
+    "category": "Kategori",
+    "festival": "Festival Nasi Tirta Lie",
+    "master": "Master Pan",
+    "gadget": "Gadget Fair",
+    "sign_in": "Masuk",
+    "sign_up": "Daftar"
+  },
+  "favorite": {
+    "new": "Baru",
+    "all": "Semua",
+    "bliblimart": "Bliblimart",
+    "tablet": "Tablet",
+    "pulse": "Pulsa",
+    "vouchers": "Ticket & Voucher",
+    "electronic": "Elektronik",
+    "living": "Living",
+    "beauty": "Kecantikan",
+    "plane": "Pesawat",
+    "health": "Kesehatan"
+  },
+  "promo": {
+    "other": "Promo Lainnya",
+    "cheapest": "Termurah",
+    "bank": "Bank"
+  },
+  "products": {
+    "recommended_products": "Produk Rekomendasi",
+    "best_selling_products": "Produk Terlaris",
+    "consumer_goods": "Consumer Goods",
+    "lifestyle": "Lifestyle",
+    "activities_vacations": "Aktivitas & Liburan",
+    "automotive": "Otomotif",
+    "home_living": "Home & Living",
+    "gadgets_electronics": "Gadget & Elektronik"
+  }
+}
