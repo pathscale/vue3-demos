@@ -43,9 +43,7 @@ const template = ({ attributes, files, meta, publicPath, title }) => {
     .map(({ fileName }) => {
       const file = addVersion(fileName)
       const attrs = makeHtmlAttributes(attributes.script)
-      return `<script data-src="${publicPath}${
-        prod ? '/vue3-demos/blibli/' : ''
-      }${file}"${attrs}></script>`
+      return `<script data-src="${publicPath}${file}"${attrs}></script>`
     })
     .join('\n')
 
@@ -53,9 +51,7 @@ const template = ({ attributes, files, meta, publicPath, title }) => {
     .map(({ fileName }) => {
       const file = addVersion(fileName)
       const attrs = makeHtmlAttributes(attributes.link)
-      return `<link data-href="${publicPath}${
-        prod ? '/vue3-demos/blibli/' : ''
-      }${file}" rel="stylesheet"${attrs}>`
+      return `<link data-href="${publicPath}${file}" rel="stylesheet"${attrs}>`
     })
     .join('\n')
 

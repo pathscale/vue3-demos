@@ -23,7 +23,7 @@ export default {
           <div class="is-justified-between">
             <div class="is-inline-flex is-aligned-center">
               <span class="px-2">
-                <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/ic-official-store.04dbf03.webp" />
+                <img src="/images/ic-official-store.04dbf03.webp" />
               </span>
               <h4 class="title is-size-6">
                 Official Store
@@ -41,7 +41,7 @@ export default {
               <a href="https://www.blibli.com/promosi/kam-preorder-lumix?appsWebview=true">
                 <div class="box px-0">
                   <div>
-                    <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/Lumix-S5-Home-OS-280x280-br.webp" alt="2310/desktop/KAM/lumix" draggable="false" data-loaded="true" />
+                    <img src="/images/Lumix-S5-Home-OS-280x280-br.webp" alt="2310/desktop/KAM/lumix" draggable="false" data-loaded="true" />
                   </div>
                 </div>
               </a>
@@ -50,7 +50,7 @@ export default {
               <a href="https://www.blibli.com/promosi/blm-unilever-big-brand-day?appsWebview=true">
                 <div class="box px-0">
                   <div>
-                    <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/uli-bbd-okt20-blm-os-280x280.webp" alt="2110/desktop/blm-unileverbbd" draggable="false" data-loaded="true" />
+                    <img src="/images/uli-bbd-okt20-blm-os-280x280.webp" alt="2110/desktop/blm-unileverbbd" draggable="false" data-loaded="true" />
                   </div>
                 </div>
               </a>
@@ -59,7 +59,7 @@ export default {
               <a href="https://www.blibli.com/merchant/volcom-official-store/VOM-60025?page=1&amp;start=0&amp;pickupPointCode=&amp;cnc=&amp;multiCategory=true&amp;excludeProductList=true">
                 <div class="box px-0">
                   <div>
-                    <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/OS-Homepage-256x256-Volcom-a.webp" alt="2310/desktop/fpr/volcom" draggable="false" data-loaded="true" />
+                    <img src="/images/OS-Homepage-256x256-Volcom-a.webp" alt="2310/desktop/fpr/volcom" draggable="false" data-loaded="true" />
                   </div>
                 </div>
               </a>
@@ -68,7 +68,7 @@ export default {
               <a href="https://www.blibli.com/promosi/tivo-yellowfit?appsWebview=true">
                 <div class="box px-0">
                   <div>
-                    <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/201001-Yellowfit-280x280-OS_Homepage_Desktop.webp" alt="2310/desktop/digioto/yellowfit" draggable="false" data-loaded="true" />
+                    <img src="/images/201001-Yellowfit-280x280-OS_Homepage_Desktop.webp" alt="2310/desktop/digioto/yellowfit" draggable="false" data-loaded="true" />
                   </div>
                 </div>
               </a>
@@ -79,27 +79,27 @@ export default {
           <v-columns mobile class="has-overflow-x-auto" gap="is-0">
             <v-column>
               <a href="https://www.blibli.com/promosi/bangga-buatan-indonesia?appsWebview=true">
-                <img class="image" src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/KarenaLokalNo1-message.webp" alt="Bangga Buatan Indonesia" draggable="false" data-loaded="true" />
+                <img class="image" src="/images/KarenaLokalNo1-message.webp" alt="Bangga Buatan Indonesia" draggable="false" data-loaded="true" />
               </a>
             </v-column>
             <v-column>
               <a href="https://www.pintaria.com/kartuprakerja/blibli?utm_source=blibli&amp;utm_medium=banner&amp;utm_campaign=kartuprakerja&amp;appsWebview=true">
-                <img class="image" src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/harukaEDUnewcolor-message-tanpa-radius.webp" alt="Kartu Prakerja Haruka EDU" draggable="false" data-loaded="true" />
+                <img class="image" src="/images/harukaEDUnewcolor-message-tanpa-radius.webp" alt="Kartu Prakerja Haruka EDU" draggable="false" data-loaded="true" />
               </a>
             </v-column>
             <v-column>
               <a href="https://www.blibli.com/promosi/mix-langganan?appsWebview=true">
-                <img class="image" src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/langnanan-tanpa-radius.webp" alt="Langganan" draggable="false" data-loaded="true" />
+                <img class="image" src="/images/langnanan-tanpa-radius.webp" alt="Langganan" draggable="false" data-loaded="true" />
               </a>
             </v-column>
             <v-column>
               <a href="https://www.blibli.com/clickandcollect?appsWebview=true">
-                <img class="image" src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/click-collect-message-tanpa-radius.webp" alt="Click and Collect" draggable="false" data-loaded="true" />
+                <img class="image" src="/images/click-collect-message-tanpa-radius.webp" alt="Click and Collect" draggable="false" data-loaded="true" />
               </a>
             </v-column>
             <v-column>
               <a href="https://www.blibli.com/promosi/blibli-tukar-tambah?appsWebview=true">
-                <img class="image" src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/Tukar-Tambah-message-tanpa-radius.webp" alt="Tukar Tambah" draggable="false" data-loaded="true" />
+                <img class="image" src="/images/Tukar-Tambah-message-tanpa-radius.webp" alt="Tukar Tambah" draggable="false" data-loaded="true" />
               </a>
             </v-column>
           </v-columns>

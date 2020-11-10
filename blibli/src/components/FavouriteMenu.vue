@@ -30,56 +30,56 @@ export default {
               </div>
               <div class="favourite__item">
                 <div class="favourite__item-image">
-                  <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/ic-blibli-mart-compressed.png" alt="BlibliMart" height="24px" />
+                  <img src="/images/ic-blibli-mart-compressed.png" alt="BlibliMart" height="24px" />
                 </div>
                 <div class="favourite__item-label">
                   {{ intl.$ts('favorite.bliblimart') }}
                 </div>
               </div><div class="favourite__item">
                 <div class="favourite__item-image">
-                  <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/ic-handphone-tablet-compressed.png" alt="Handphone &amp; Tablet" height="24px" />
+                  <img src="/images/ic-handphone-tablet-compressed.png" alt="Handphone &amp; Tablet" height="24px" />
                 </div>
                 <div class="favourite__item-label">
                   {{ intl.$ts('favorite.tablet') }}
                 </div>
               </div><div class="favourite__item">
                 <div class="favourite__item-image">
-                  <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/ic-phone-credit-compressed.png" alt="Pulsa" height="24px" />
+                  <img src="/images/ic-phone-credit-compressed.png" alt="Pulsa" height="24px" />
                 </div>
                 <div class="favourite__item-label">
                   {{ intl.$ts('favorite.pulse') }}
                 </div>
               </div><div class="favourite__item">
                 <div class="favourite__item-image">
-                  <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/ic-tiket-voucher-compressed.png" alt="Tiket &amp; Voucher" height="24px" />
+                  <img src="/images/ic-tiket-voucher-compressed.png" alt="Tiket &amp; Voucher" height="24px" />
                 </div>
                 <div class="favourite__item-label">
                   {{ intl.$ts('favorite.vouchers') }}
                 </div>
               </div><div class="favourite__item">
                 <div class="favourite__item-image">
-                  <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/ic-electronic-compressed.png" alt="Elektronik" height="24px" />
+                  <img src="/images/ic-electronic-compressed.png" alt="Elektronik" height="24px" />
                 </div>
                 <div class="favourite__item-label">
                   {{ intl.$ts('favorite.electronic') }}
                 </div>
               </div><div class="favourite__item">
                 <div class="favourite__item-image">
-                  <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/ic-home-compressed.png" alt="Home &amp; Living" height="24px" />
+                  <img src="/images/ic-home-compressed.png" alt="Home &amp; Living" height="24px" />
                 </div>
                 <div class="favourite__item-label">
                   Home &amp; <br /> Living
                 </div>
               </div><div class="favourite__item">
                 <div class="favourite__item-image">
-                  <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/ic-kecantikan-compressed.png" alt="Kesehatan &amp; Kecantikan" height="24px" />
+                  <img src="/images/ic-kecantikan-compressed.png" alt="Kesehatan &amp; Kecantikan" height="24px" />
                 </div>
                 <div class="favourite__item-label">
                   {{ intl.$ts('favorite.health') }} <br /> {{ intl.$ts('favorite.beauty') }}
                 </div>
               </div><div class="favourite__item">
                 <div class="favourite__item-image">
-                  <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/ic-flight1-compressed.png" alt="Pesawat" height="24px" />
+                  <img src="/images/ic-flight1-compressed.png" alt="Pesawat" height="24px" />
                 </div>
                 <div class="favourite__item-label">
                   {{ intl.$ts('favorite.plane') }}

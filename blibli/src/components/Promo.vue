@@ -24,50 +24,50 @@ export default {
       <v-tab :label="intl.$ts('promo.cheapest')">
         <div class="is-inline-flex has-overflow-x-auto">
           <a href="https://www.blibli.com/promosi/mix-langganan?appsWebview=true">
-            <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/fp-langganan-app-w4ok.webp" alt="Featured 1 Dekstop - mix-langganan 23 - 29 okt" />
+            <img src="/images/fp-langganan-app-w4ok.webp" alt="Featured 1 Dekstop - mix-langganan 23 - 29 okt" />
           </a>
           <a href="https://www.blibli.com/promosi/blm-featured-sembako?appsWebview=true">
-            <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/FEATURED-21102020-royco-web.webp" alt="Featured 3 Dekstop - blm-featured-sembako 23 - 29 okt" />
+            <img src="/images/FEATURED-21102020-royco-web.webp" alt="Featured 3 Dekstop - blm-featured-sembako 23 - 29 okt" />
           </a>
           <a href="https://www.blibli.com/promosi/blm-featured-snack-minuman?appsWebview=true">
-            <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/FEATURED-21102020-mamee-web.webp" alt="Featured 4 Dekstop - blm-featured-snack-minuman 23 - 29 okt" />
+            <img src="/images/FEATURED-21102020-mamee-web.webp" alt="Featured 4 Dekstop - blm-featured-snack-minuman 23 - 29 okt" />
           </a>
           <a href="https://www.blibli.com/promosi/blm-featured-perawatan-kulit?appsWebview=true">
-            <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/FEATURED-21102020-lifebuoy-web.webp" alt="Featured 5 Dekstop - blm-featured-perawatan-kulit 23 - 29 okt" />
+            <img src="/images/FEATURED-21102020-lifebuoy-web.webp" alt="Featured 5 Dekstop - blm-featured-perawatan-kulit 23 - 29 okt" />
           </a>
           <a href="https://www.blibli.com/promosi/blm-featured-menu-restoran?appsWebview=true">
-            <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/FEATURED-21102020-colette-web.webp" alt="Featured 6 Dekstop - blm-featured-menu-restoran 23 - 29 okt" />
+            <img src="/images/FEATURED-21102020-colette-web.webp" alt="Featured 6 Dekstop - blm-featured-menu-restoran 23 - 29 okt" />
           </a>
           <a href="https://www.blibli.com/promosi/blm-featured-perawatan-rumah?appsWebview=true">
-            <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/FEATURED-21102020-bayer-web.webp" alt="Featured 7 Dekstop - blm-featured-perawatan-rumah 23 - 29 okt" />
+            <img src="/images/FEATURED-21102020-bayer-web.webp" alt="Featured 7 Dekstop - blm-featured-perawatan-rumah 23 - 29 okt" />
           </a>
           <a href="https://www.blibli.com/promosi/featured-ibu-anak?appsWebview=true">
-            <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/FEATURED-21102020-zwitsal-web.webp" alt="Featured 8 Dekstop - featured-ibu-anak 23 - 29 okt" />
+            <img src="/images/FEATURED-21102020-zwitsal-web.webp" alt="Featured 8 Dekstop - featured-ibu-anak 23 - 29 okt" />
           </a>
         </div>
       </v-tab>
       <v-tab :label="intl.$ts('promo.bank')">
         <div class="is-inline-flex has-overflow-x-auto">
           <a href="https://www.blibli.com/promosi/bca-gallery?appsWebview=true">
-            <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/fp-app-bca-gallery-1-okt.webp" alt="FP Mobile 1 - BCA Gallery" />
+            <img src="/images/fp-app-bca-gallery-1-okt.webp" alt="FP Mobile 1 - BCA Gallery" />
           </a>
           <a href="https://www.blibli.com/promosi/bni-happy-deals?appsWebview=true">
-            <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/fp-app-bni-happy-deals-1okt.webp" alt="FP Mobile 2  - BNI Happy Deals" />
+            <img src="/images/fp-app-bni-happy-deals-1okt.webp" alt="FP Mobile 2  - BNI Happy Deals" />
           </a>
           <a href="https://www.blibli.com/promosi/citi-debit-online?appsWebview=true">
-            <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/fp-app-citibelanjaonline-1okt.webp" alt="FP Mobile 3 - Citi Debit Online" />
+            <img src="/images/fp-app-citibelanjaonline-1okt.webp" alt="FP Mobile 3 - Citi Debit Online" />
           </a>
           <a href="https://www.blibli.com/promosi/mandiri-daily-deals?appsWebview=true">
-            <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/fp-app-mandiri-daily-deals-1-okt.webp" alt="FP Mobile 4 - Mandiri Daily Deals" />
+            <img src="/images/fp-app-mandiri-daily-deals-1-okt.webp" alt="FP Mobile 4 - Mandiri Daily Deals" />
           </a>
           <a href="https://www.blibli.com/promosi/hsbc-premier-everyday?appsWebview=true">
-            <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/fp-app-hsbchp-1-okt.webp" alt="FP Mobile 5 -  HSBC Premier Everyday Deal" />
+            <img src="/images/fp-app-hsbchp-1-okt.webp" alt="FP Mobile 5 -  HSBC Premier Everyday Deal" />
           </a>
           <a href="https://www.blibli.com/promosi/dbs-deals?appsWebview=true">
-            <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/fp-app-dbs-deals-7-sep.webp" alt="FP Mobile 6 - DBS Deals" />
+            <img src="/images/fp-app-dbs-deals-7-sep.webp" alt="FP Mobile 6 - DBS Deals" />
           </a>
           <a href="https://www.blibli.com/promosi/gopay-deals?appsWebview=true">
-            <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/fp-app-gopay-deals-15okt.webp" alt="FP Mobile 7 - GoPay Deals" />
+            <img src="/images/fp-app-gopay-deals-15okt.webp" alt="FP Mobile 7 - GoPay Deals" />
           </a>
         </div>
       </v-tab>

@@ -45,7 +45,7 @@ export default {
             <div class="flashsale__product-item">
               <a href="https://www.blibli.com/p/xiaomi-redmi-note-9-pro-smartphone-blue-128-gb-8-gb-o/ps--XIO-60022-00589" class="blu-product__link">
                 <div class="blu-product__img">
-                  <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/xiaomi_xiaomi-redmi-note-9-pro-smartphone---blue--128-gb--8-gb--o-_full06.jpg" alt="Xiaomi Redmi Note 9 Pro Smartphone - Blue [128/GB/ 8 GB/ O]" class="lazyImage" data-loaded="true" />
+                  <img src="/images/xiaomi_xiaomi-redmi-note-9-pro-smartphone---blue--128-gb--8-gb--o-_full06.jpg" alt="Xiaomi Redmi Note 9 Pro Smartphone - Blue [128/GB/ 8 GB/ O]" class="lazyImage" data-loaded="true" />
                 </div>
                 <div class="blu-product__description">
                   <div class="blu-product__name">
@@ -78,7 +78,7 @@ export default {
             <div class="flashsale__product-item">
               <a href="https://www.blibli.com/p/xiaomi-redmi-note-9-pro-smartphone-128-gb-8-gb-o/ps--XIO-60022-00588" class="blu-product__link">
                 <div class="blu-product__img">
-                  <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/xiaomi_xiaomi-redmi-note-9-pro-smartphone--128-gb--8-gb--o-_full28.jpg" alt="Xiaomi Redmi Note 9 Pro Smartphone [128 GB/ 8 GB/ O]" class="lazyImage" data-loaded="true" />
+                  <img src="/images/xiaomi_xiaomi-redmi-note-9-pro-smartphone--128-gb--8-gb--o-_full28.jpg" alt="Xiaomi Redmi Note 9 Pro Smartphone [128 GB/ 8 GB/ O]" class="lazyImage" data-loaded="true" />
                 </div>
                 <div class="blu-product__description">
                   <div class="blu-product__name">
@@ -111,7 +111,7 @@ export default {
             <div class="flashsale__product-item">
               <a href="https://www.blibli.com/p/xiaomi-redmi-note-9-pro-smartphone-64-gb-6-gb-o/ps--XIO-60022-00540" class="blu-product__link">
                 <div class="blu-product__img">
-                  <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/xiaomi_xiaomi-redmi-note-9-pro-smartphone--64-gb--6-gb--o-_full73.jpg" alt="Xiaomi Redmi Note 9 Pro Smartphone [64/GB/ 6 GB/ O]" class="lazyImage" data-loaded="true" />
+                  <img src="/images/xiaomi_xiaomi-redmi-note-9-pro-smartphone--64-gb--6-gb--o-_full73.jpg" alt="Xiaomi Redmi Note 9 Pro Smartphone [64/GB/ 6 GB/ O]" class="lazyImage" data-loaded="true" />
                 </div>
                 <div class="blu-product__description">
                   <div class="blu-product__name">
@@ -144,7 +144,7 @@ export default {
             <div class="flashsale__product-item">
               <a href="https://www.blibli.com/p/bpm-beras-putih-tani-tunggal-5kg-kualitas-terjamin/ps--BEP-60117-00001" class="blu-product__link">
                 <div class="blu-product__img">
-                  <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/pt-_berkah_pangan_mandiri_bpm_beras_tani_tunggal_-5kg-_full01_nkkrm1tj.jpg" alt="BPM Beras Putih Tani Tunggal 5kg [Kualitas Terjamin]" class="lazyImage" data-loaded="true" />
+                  <img src="/images/pt-_berkah_pangan_mandiri_bpm_beras_tani_tunggal_-5kg-_full01_nkkrm1tj.jpg" alt="BPM Beras Putih Tani Tunggal 5kg [Kualitas Terjamin]" class="lazyImage" data-loaded="true" />
                 </div>
                 <div class="blu-product__description">
                   <div class="blu-product__name">
@@ -177,7 +177,7 @@ export default {
             <div class="flashsale__product-item">
               <a href="https://www.blibli.com/p/champion-big-logo-c-fleece-pullover-mens-sweater-pria-white/ps--CHN-60022-00052" class="blu-product__link">
                 <div class="blu-product__img">
-                  <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/champion_champion_mens_fleece_pullover_-_big_logo_c_white_full02_itnvkgwj.jpg" alt="Champion Big Logo C Fleece Pullover Mens Sweater Pria - White" class="lazyImage" data-loaded="true" />
+                  <img src="/images/champion_champion_mens_fleece_pullover_-_big_logo_c_white_full02_itnvkgwj.jpg" alt="Champion Big Logo C Fleece Pullover Mens Sweater Pria - White" class="lazyImage" data-loaded="true" />
                 </div>
                 <div class="blu-product__description">
                   <div class="blu-product__name">
@@ -210,7 +210,7 @@ export default {
             <div class="flashsale__product-item">
               <a href="https://www.blibli.com/p/clarette-signature-daelyn-sandals-heels-wanita/ps--SHT-38393-09800" class="blu-product__link">
                 <div class="blu-product__img">
-                  <img src="https://pathscale--com.b-cdn.net/vue3-demos/blibli/images/clarette_clarette-signature-daelyn-sandals-heels-wanita_full13.jpg" alt="Clarette Signature Daelyn Sandals Heels Wanita" class="lazyImage" data-loaded="true" />
+                  <img src="/images/clarette_clarette-signature-daelyn-sandals-heels-wanita_full13.jpg" alt="Clarette Signature Daelyn Sandals Heels Wanita" class="lazyImage" data-loaded="true" />
                 </div>
                 <div class="blu-product__description">
                   <div class="blu-product__name">
