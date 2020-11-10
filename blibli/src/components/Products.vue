@@ -350,7 +350,7 @@ export default {
         </a>
       </v-column>
       <v-column size="is-6-touch is-2-desktop">
-        <a href="/p/sania-beras-5-kg/pc--MTA-2176775?ds=WIT-35794-00022-00001&amp;source=SEARCH&amp;sid=449935d0ca0bf4bd&amp;cnc=false&amp;pickupPointCode=PP-3009430" class="box" data-v-008f398a="">
+        <a href="/p/sania-beras-5-kg/pc--MTA-2176775?ds=WIT-35794-00022-00001&amp;source=SEARCH&amp;sid=449935d0ca0bf4bd&amp;cnc=false&amp;pickupPointCode=PP-3009430" class="box">
           <div class="blu-product__img">
             <img src="/images/sania_fs---sania-beras--5-kg-_full04.webp" alt="Sania Beras [5 kg]" class="lazyImage" data-loaded="true" />
           </div>
@@ -373,7 +373,7 @@ export default {
         </a>
       </v-column>
       <v-column size="is-6-touch is-2-desktop">
-        <a href="/p/buttonscarves-lilac-series-scarf-jilbab-segiempat-wanita-cloud/pc--MTA-9086502?ds=BUS-60060-00113-00001&amp;source=SEARCH&amp;sid=3bc0d117a76b9272&amp;cnc=false&amp;pickupPointCode=PP-3082207&amp;tag=new" class="box" data-v-008f398a="">
+        <a href="/p/buttonscarves-lilac-series-scarf-jilbab-segiempat-wanita-cloud/pc--MTA-9086502?ds=BUS-60060-00113-00001&amp;source=SEARCH&amp;sid=3bc0d117a76b9272&amp;cnc=false&amp;pickupPointCode=PP-3082207&amp;tag=new" class="box">
           <div class="blu-product__img">
             <img src="/images/buttonscarves_buttonscarves-lilac-series-scarf-jilbab-segiempat-wanita---cloud_full07.webp" alt="Buttonscarves Lilac Series Scarf Jilbab Segiempat Wanita - Cloud" class="lazyImage" data-loaded="true" />
           </div>
@@ -392,7 +392,7 @@ export default {
         </a>
       </v-column>
       <v-column size="is-6-touch is-2-desktop">
-        <a href="/p/xiaomi-redmi-note-9-midnight-grey-128-gb/pr--PRI-134295-00?ds=88P-60022-00409-00001&amp;source=SEARCH&amp;sid=3bc0d117a76b9272&amp;cnc=false&amp;pickupPointCode=PP-3073618" class="box" data-v-008f398a="">
+        <a href="/p/xiaomi-redmi-note-9-midnight-grey-128-gb/pr--PRI-134295-00?ds=88P-60022-00409-00001&amp;source=SEARCH&amp;sid=3bc0d117a76b9272&amp;cnc=false&amp;pickupPointCode=PP-3073618" class="box">
           <div class="blu-product__img">
             <img src="/images/xiaomi_xiaomi-redmi-note-9-smartphone--128-gb-6-gb--o-_full71.webp" />
             <div class="blu-product__description" />
@@ -414,7 +414,7 @@ export default {
         </a>
       </v-column>
       <v-column size="is-6-touch is-2-desktop">
-        <a href="/p/surabaya-sania-premium-minyak-goreng-2000-ml-6-pouch/pc--MTA-2625786?ds=GOS-60047-00032-00001&amp;source=SEARCH&amp;sid=3bc0d117a76b9272&amp;cnc=false&amp;pickupPointCode=PP-3046779" class="box" data-v-008f398a="">
+        <a href="/p/surabaya-sania-premium-minyak-goreng-2000-ml-6-pouch/pc--MTA-2625786?ds=GOS-60047-00032-00001&amp;source=SEARCH&amp;sid=3bc0d117a76b9272&amp;cnc=false&amp;pickupPointCode=PP-3046779" class="box">
           <div class="blu-product__img">
             <img src="/images/sania_surabaya---sania-premium-minyak-goreng--2000-ml-6-pouch-_full02.webp" alt="Surabaya - Sania Premium Minyak Goreng [2000 mL/6 Pouch]" class="lazyImage" data-loaded="true" />
           </div>
